@@ -22,7 +22,7 @@ The improved model (with data augmentation and dropout) achieved ~91% validation
 
 ## Running the notebook
 
-### On Kaggle (easiest)
+### On Kaggle 
 1. Go to the [dataset page](https://www.kaggle.com/datasets/hiyaro/doesimagehavefish)
 2. Click "New Notebook"
 3. Copy the code from `gofishnofish.ipynb`
@@ -44,4 +44,4 @@ You'll need to download the dataset from Kaggle and update the `DATA_DIR` path.
 ---
 
 Kylie DeFeo  
-Originally created for DSC 344 - Intro to Machine Learning
+Originally created for DSC 344 - Intro to Machine Learning (2022), updated for portfolio presentation.
